@@ -2,6 +2,6 @@ Mirror of the [YChan's SourceForge page](https://sourceforge.net/projects/ychan/
 # YChan
 YChan is a free image downloader. It supports multithreading and auto-rechecking of threads. It was created as an alternative for XChan which doesnt work anymore.
 
-Supported Websites: 8chan.co / [8ch.net](http://8ch.net/) and [4chan.org](http://4chan.org/)
+Supported Websites: 8chan.co / [8ch.net](http://8ch.net/) and 4channel.org / [4chan.org](http://4chan.org/)
 
 YChan requieres .NET Framework 4.5 or higher.
